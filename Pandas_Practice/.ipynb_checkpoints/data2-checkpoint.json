@@ -1,0 +1,18 @@
+[
+    {
+        "id" : 1,
+        "name":"Dhwani Vashisth",
+        "address":{
+            "city" : "Delhi",
+            "ZipCode" : "110018"
+        }
+    },
+    {
+        "id" : 2,
+        "name":"Sagar Wadhwa",
+        "address":{
+            "city" : "New York",
+            "ZipCode" : "60601"
+        }
+    }
+]
